@@ -11,3 +11,7 @@ end
 get '/portfolio' do
   erb :gallery
 end
+
+get '/aboutme' do
+  erb :about_me
+end
