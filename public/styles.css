@@ -1,0 +1,18 @@
+* {
+  font-family:'Poiret One', cursive;
+  background-color: #E6EAEE;
+}
+
+h1 {
+  text-align: center;
+  background-color: #CEAEBD;
+}
+
+img {
+  display: inline-block;
+}
+
+.aboutme {
+  padding: 100px 100px;
+  margin: 100px 100px;
+}
